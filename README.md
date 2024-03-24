@@ -2,7 +2,8 @@
 
 In a single .java file, please write a specialized calculator program that gets input from the user using a Scanner, and calculates a useful output.
 
-Project Requirements
+Project Requirements:
+
 Though this project allows you to be creative, it must meet the following requirements to receive full credit:
 
 - It must use Scanner to interact with the user.
